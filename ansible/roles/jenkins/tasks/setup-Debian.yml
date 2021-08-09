@@ -9,7 +9,7 @@
 
 - name: Add Jenkins apt repository key.
   apt_key:
-    url: "https://pkg.jenkins.io/debian-stable/jenkins.io.key"
+    url: "{{ jenkins_repo_key_url }}"
     state: present
 
 - name: Add Jenkins apt repository.

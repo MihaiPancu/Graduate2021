@@ -1,1 +1,1 @@
-{"virtualbox":{"/vagrant":{"owner":"vagrant","mount_options":["dmode=755,fmode=755","_netdev","_netdev","_netdev","_netdev","uid=1000","gid=1000","_netdev"],"guestpath":"/vagrant","hostpath":"C:/Users/mpancu/OneDrive - ENDAVA/Desktop/Graduate2021","disabled":false,"__vagrantfile":true}}}
+{"virtualbox":{"/vagrant":{"disabled":false,"guestpath":"/vagrant","hostpath":"C:/Users/mpancu/OneDrive - ENDAVA/Desktop/Graduate2021","owner":"vagrant","mount_options":["dmode=755,fmode=755","_netdev","_netdev","_netdev","_netdev","uid=1000","gid=1000","_netdev"],"__vagrantfile":true}}}
